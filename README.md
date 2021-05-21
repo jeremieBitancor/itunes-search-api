@@ -13,6 +13,6 @@ Uses Realm for saving data from the API, and uses User Defaults for saving the d
 ## Architecture ##
 Used MVC and Delegation and Protocol for sending data around the app. I use MVC because it was Apple's preferred way of architecting iOS apps.
 
-![Simulator Screen Shot - iPhone 12 Pro - 2021-05-21 at 14 34 49](https://user-images.githubusercontent.com/33449251/119094707-f3281e80-ba43-11eb-807e-418a1a5a5167.png)![Simulator Screen Shot - iPhone 12 Pro - 2021-05-21 at 14 34 59](https://user-images.githubusercontent.com/33449251/119094747-ff13e080-ba43-11eb-98ed-1eca07b1e9ea.png)
-![Simulator Screen Shot - iPhone 12 Pro - 2021-05-21 at 14 35 06](https://user-images.githubusercontent.com/33449251/119094754-00dda400-ba44-11eb-9bbf-ac6372cfd0fb.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2021-05-21 at 14 34 49](https://user-images.githubusercontent.com/33449251/119094707-f3281e80-ba43-11eb-807e-418a1a5a5167.png) | ![Simulator Screen Shot - iPhone 12 Pro - 2021-05-21 at 14 34 59](https://user-images.githubusercontent.com/33449251/119094747-ff13e080-ba43-11eb-98ed-1eca07b1e9ea.png) |
+![Simulator Screen Shot - iPhone 12 Pro - 2021-05-21 at 14 35 06](https://user-images.githubusercontent.com/33449251/119094754-00dda400-ba44-11eb-9bbf-ac6372cfd0fb.png) |
 ![Uploading Simulator Screen Shot - iPhone 12 Pro - 2021-05-21 at 14.38.47.png…]()
