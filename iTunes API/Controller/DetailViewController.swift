@@ -74,7 +74,16 @@ class DetailViewController: UIViewController {
     }
 
     @IBAction func playTrailer(_ sender: UIButton) {
-        let videoURL = URL(string: track!.previewUrl)
+        
+        var url: String?
+        
+        if track == nil {
+            url =  trackRealm?.previewUrl
+        } else {
+            url = track?.previewUrl
+        }
+        
+        let videoURL = URL(string: url!)
         player = AVPlayer(url: videoURL!)
         playerController.player = player
         self.present(playerController, animated: true, completion: {
